@@ -98,18 +98,18 @@ Makespan optimization
 
 Constraint handling effectiveness
 
-👥 Team 
+## 👥 Team 
 Name	
-[Alaa Aly]	
-[Menna Elbanna]	
-[Alber Ehap]	
-[Dina Mohammed]	
-[Pola Atif]	
-[Radwa Yousry]	
+Alaa Aly
+Menna Elbanna	
+Alber Ehap
+Dina Mohammed	
+Pola Atif
+Radwa Yousry	
 
-📄 License
+## 📄 License
 This project is for educational purposes only. Please do not copy or redistribute without permission.
 © 2025 – All rights reserved.
 
-🙌 Acknowledgements
+##🙌 Acknowledgements
 Special thanks to our professors and teaching assistants for their continuous support and guidance throughout the project.
