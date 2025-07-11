@@ -1,6 +1,6 @@
 # 🧠 Job Scheduling Problem Solver (AI Project)
 
-This project is part of our Artificial Intelligence & Machine Learning course at [Your University Name]. It aims to solve the **Job Scheduling Problem (JSP)** using two intelligent approaches: **Backtracking Search Algorithm** and **Genetic Algorithm**, both implemented in **Python**.
+This project is part of our Artificial Intelligence & Machine Learning course at Helwan National University. It aims to solve the **Job Scheduling Problem (JSP)** using two intelligent approaches: **Backtracking Search Algorithm** and **Genetic Algorithm**, both implemented in **Python**.
 
 ---
 
@@ -47,8 +47,8 @@ The goal is to produce a valid schedule that **minimizes the makespan** (total c
 - **Libraries:** 
   - `numpy`
   - `random`
-  - `matplotlib` (for optional visualization)
-  - `tkinter` (for optional GUI)
+  - `matplotlib` (for the visualization)
+  - `tkinter` (for the GUI)
 - **Development Environment:** Jupyter Notebook / VS Code / PyCharm
 
 ---
@@ -62,7 +62,7 @@ The goal is to produce a valid schedule that **minimizes the makespan** (total c
 - ✔️ Constraint-handling for:
   - Resource capacity
   - Temporal dependencies
-- ✔️ Optional GUI with Gantt Chart visualization
+- ✔️ GUI with Gantt Chart visualization
 
 ---
 
@@ -89,10 +89,27 @@ The goal is to produce a valid schedule that **minimizes the makespan** (total c
 
 ---
 
-## 🚀 Installation & Usage
+📊 Results
+The project includes performance evaluations of both algorithms across different scenarios. The results are summarized in the report, with comparisons on:
 
-### Prerequisites
-Ensure you have Python 3 installed. Then install required libraries:
+Execution time
 
-```bash
-pip install numpy matplotlib
+Makespan optimization
+
+Constraint handling effectiveness
+
+👥 Team 
+Name	
+[Alaa Aly]	
+[Menna Elbanna]	
+[Alber Ehap]	
+[Dina Mohammed]	
+[Pola Atif]	
+[Radwa Yousry]	
+
+📄 License
+This project is for educational purposes only. Please do not copy or redistribute without permission.
+© 2025 – All rights reserved.
+
+🙌 Acknowledgements
+Special thanks to our professors and teaching assistants for their continuous support and guidance throughout the project.
